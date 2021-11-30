@@ -1,9 +1,7 @@
-//We can start by traversing from each index and growing 
-// from both sides till it is a palindrome.
-//We can then get the  maximum length  of odd length palindrome centered at i as first pointer.
-// Then we can get maximum length even length palindrome centered at i
+//We can start by traversing from each index and growing from both sides till it is a palindrome.
+//We can then get the maximum length  of odd length palindrome centered at i as first pointer.
+//Then we can get maximum length even length palindrome centered at i
 //We will go through all possible element in string and find the longest palindrome amongst them.
-
 //And to calculate all the possible substrings in a string of length n 
 //We need to check all the substrings for it to be a Palindrome, and we know we will have to go through all the n characters to ascertain this.
 
