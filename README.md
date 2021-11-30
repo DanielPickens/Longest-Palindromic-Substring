@@ -1,17 +1,8 @@
 # Longest-Palindromic-Substring
-My e Go solution that's faster than 94%, takes up less memory than 100%
+My simple Go solution that's faster than 94%, takes up less memory than 100%
 
 
-5. Longest Palindromic Substring
-Medium
 
-14525
-
-849
-
-Add to List
-
-Share
 Given a string s, return the longest palindromic substring in s.
 
  
