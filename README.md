@@ -1,12 +1,13 @@
 # Longest-Palindromic-Substring
 My simple Go solution that's faster than 94%, takes up less memory than 100%
 
-
+ 
 
 Given a string s, return the longest palindromic substring in s.
 
  
-
+ 
+ 
 Example 1:
 
 Input: s = "babad"
